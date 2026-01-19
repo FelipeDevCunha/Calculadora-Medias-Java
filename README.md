@@ -32,7 +32,7 @@ Clone este repositório:
 
 Bash
 
-git clone https://github.com/SEU_USUARIO/calculadora-medias-java.git
+git clone https://github.com/FelipeDevCunha/Calculadora-Medias-Java
 
 Abra o projeto no IntelliJ IDEA ou em sua IDE de preferência.
 
